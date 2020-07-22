@@ -1,1 +1,1 @@
-web: python AdamokBot.py
+web: python adamokbot.py
